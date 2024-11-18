@@ -1,4 +1,4 @@
-## _Preveja os usuários com alta chance de deixar seu Streaming:_
+## _Previsão de usuários com alta chance de deixar seu Streaming:_
 
 Utilize um modelo de classificação para mapear qual o perfil de
 usuários tem mais chance de deixar sua plataforma de streaming.
